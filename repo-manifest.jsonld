@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/pylint-django/commit/9b1a68472719f4050f7af3c5abacca9c3edf8051",
       "git:hexsha": "9b1a68472719f4050f7af3c5abacca9c3edf8051",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T23:53:28.096300+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PyCQA/pylint-django/commit/68dbada8277e30fee7084c35723c42855255bc52",
