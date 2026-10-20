@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "pylint-django",
+  "versions": [
+    {
+      "commit": "9b1a68472719f4050f7af3c5abacca9c3edf8051",
+      "tag": "",
+      "parsed_at": "2026-10-20T23:53:28.097031+00:00"
+    }
+  ]
+}
